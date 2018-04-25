@@ -1,0 +1,2 @@
+C:\Users\gbernal\Documents\testingBuild\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\gbernal\Documents\testingBuild\App\testingBuild\testingBuild.csproj;x86
